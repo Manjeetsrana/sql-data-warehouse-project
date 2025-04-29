@@ -55,4 +55,4 @@ Contributions are welcome! Please fork the repository and submit pull requests.
 
 ## About Me 
 
-Hi there ! I am " Manjeet Singh Rana " , I am an Data Analyst and a passionate learner , learning about Data Engineering!
+Hi there ! I am " Manjeet Singh Rana " , I am a Data Analyst and a passionate learner , learning about Data Engineering!

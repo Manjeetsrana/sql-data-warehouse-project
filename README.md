@@ -50,3 +50,9 @@ Contributions are welcome! Please fork the repository and submit pull requests.
 
 ## License
 [MIT License](LICENSE)
+
+
+
+## About Me 
+
+Hi there ! I am " Manjeet Singh Rana " , I am an Data Analyst and a passionate learner , learning about Data Engineering!
